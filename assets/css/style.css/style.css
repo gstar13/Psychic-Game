@@ -6,11 +6,12 @@ body {
   }
   /*general*/
 
-.container {
+.footer {
     clear: both;
     margin: 0 auto;
     width: 100%;
     max-width: 960px;
+    text-emphasis: bold;
   }
   
 h1 {
@@ -22,6 +23,9 @@ h1 {
     font-size: 30px;
     line-height: 49px;
     color: #2f6a48;
+  }
+  #gamestats {
+    text-align: center
   }
   .container2 {
     text-align: center;
