@@ -12,15 +12,18 @@ body {
     width: 100%;
     max-width: 960px;
   }
-  h1,h2,h3 {
-    font-family: 'Georgia', Times, "Times New Roman", serif;
-    font-weight: 700;
-    
-}
+  
 h1 {
+  font-family: 'Georgia', Times, "Times New Roman", serif;
+    font-weight: 700;
+    text-align: center;
     padding-bottom: 20px;
     padding-left:20px;
     font-size: 30px;
     line-height: 49px;
     color: #2f6a48;
+  }
+  .container2 {
+    text-align: center;
+    
   }
