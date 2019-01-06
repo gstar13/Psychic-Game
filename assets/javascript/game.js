@@ -53,7 +53,7 @@ document.onkeyup = function(event) {
     }
 
 } else if (guessesLeft == 0){
-    alert("Nope");
+    alert("SORRY, YOU LOST!!");
     losses++;
     document.getElementById("losses").innerHTML = "Losses: " + losses;
     game();
